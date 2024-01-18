@@ -1,0 +1,19 @@
+@media screen and (max-width:768px) {
+    .a_media{
+        width: 100% !important;
+    }
+    .a_media .a_avatar img{
+        object-position: -169px !important;
+    }
+    .social_links{
+        bottom: -20px !important;
+        left: 6px !important;
+    }
+    .social_links .a_bg_purpule{
+        width: 60px;
+        height: 60px;
+    }
+    .social_links .a_bg_purpule i{
+        font-size: 35px;
+    }
+}
